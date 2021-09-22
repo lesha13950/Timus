@@ -39,15 +39,16 @@ namespace t1005
         }
         static void Main(string[] args)
         {
-            string[] tokens = Console.ReadLine().Trim().Split(' ');
+            string[] tokens;
             int i, sum = 0;
 
-            N = int.Parse(tokens[0]);
+            N = int.Parse(Console.ReadLine().Trim());
+            tokens = Console.ReadLine().Trim().Split(' ');
             W = new int[20];
 
             for (i = 0; i < N; i++)
             {
-                W[i] = int.Parse(tokens[i + 1]);
+                W[i] = int.Parse(tokens[i]);
             }
 
             for (i = 0; i < N; i++)
