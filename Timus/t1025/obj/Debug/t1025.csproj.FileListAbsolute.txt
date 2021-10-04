@@ -1,0 +1,7 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1025\obj\Debug\t1025.csproj.AssemblyReference.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1025\obj\Debug\t1025.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1025\bin\Debug\t1025.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1025\bin\Debug\t1025.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1025\bin\Debug\t1025.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1025\obj\Debug\t1025.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1025\obj\Debug\t1025.pdb
