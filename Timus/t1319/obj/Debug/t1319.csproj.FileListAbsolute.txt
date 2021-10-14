@@ -1,0 +1,7 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1319\bin\Debug\t1319.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1319\bin\Debug\t1319.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1319\bin\Debug\t1319.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1319\obj\Debug\t1319.csproj.AssemblyReference.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1319\obj\Debug\t1319.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1319\obj\Debug\t1319.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1319\obj\Debug\t1319.pdb
