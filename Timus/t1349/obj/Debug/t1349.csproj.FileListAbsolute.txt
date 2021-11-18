@@ -1,0 +1,6 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1349\obj\Debug\t1349.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1349\bin\Debug\t1349.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1349\bin\Debug\t1349.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1349\bin\Debug\t1349.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1349\obj\Debug\t1349.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1349\obj\Debug\t1349.pdb
