@@ -1,0 +1,6 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1567\bin\Debug\t1567.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1567\bin\Debug\t1567.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1567\bin\Debug\t1567.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1567\obj\Debug\t1567.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1567\obj\Debug\t1567.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1567\obj\Debug\t1567.pdb
