@@ -1,0 +1,6 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1404\bin\Debug\t1404.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1404\bin\Debug\t1404.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1404\bin\Debug\t1404.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1404\obj\Debug\t1404.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1404\obj\Debug\t1404.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1404\obj\Debug\t1404.pdb
