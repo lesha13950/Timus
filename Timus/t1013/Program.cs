@@ -19,8 +19,8 @@ namespace t1012
 
             c = d = k - 1;
 
-            F2 = k * k - k;
-            F3 = (k - 1) * (k * k - 1);
+            F2 = (k * k - k) % M;
+            F3 = ((k - 1) * (k * k - 1)) % M ;
 
             if (N == 2) F = F2;
             else if (N == 3) F = F3;
@@ -32,21 +32,21 @@ namespace t1012
                     if ((p & 1) == 1)
                     {
                         BigInteger tF2 = F2;
-                        F2 = a * F2 + b * F3;
-                        F3 = c * tF2 + d * F3;
+                        F2 = (a * F2 + b * F3) % M;
+                        F3 = (c * tF2 + d * F3) % M;
                     }
                     BigInteger ta = a, tb = b, tc = c;
-                    a = a * a + b * c;
-                    b = ta * b + b * d;
-                    c = c * ta + d * c;
-                    d = tc * tb + d * d;
+                    a = (a * a + b * c) % M;
+                    b = (ta * b + b * d) % M;
+                    c = (c * ta + d * c) % M;
+                    d = (tc * tb + d * d) % M;
 
                     p >>= 1;
                 }
                 F = F3;
             }
 
-            Console.WriteLine(F % M);
+            Console.WriteLine(F);
             Console.ReadLine();
         }
     }
