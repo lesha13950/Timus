@@ -1,0 +1,6 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1013\bin\Debug\t1013.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1013\bin\Debug\t1013.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1013\bin\Debug\t1013.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1013\obj\Debug\t1013.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1013\obj\Debug\t1013.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1013\obj\Debug\t1013.pdb
