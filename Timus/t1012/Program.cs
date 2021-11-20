@@ -12,25 +12,22 @@ namespace t1012
        static void Main(string[] args)
         {
             int N = int.Parse(Console.ReadLine().Trim()), k = int.Parse(Console.ReadLine().Trim());
-            BigInteger F = 0, F3, F4;
+            BigInteger F = 0, F2, F3;
 
-            if (N != 2)
+            F2 = k * k - k;
+            F3 = (k - 1) * (k * k - 1);
+            if (N == 2) F = F2;
+            else if (N == 3) F = F3;
+            else
             {
-                F3 = (k - 1) * (k * k - 1);
-                F4 = (k - 1) * (k * k - 1) * k - (k - 1) * (k - 1);
-                if (N == 3) F = F3;
-                else if (N == 4) F = F4;
-                else
+                for (int i = 3; i < N; i++)
                 {
-                    for (int i = 4; i < N; i++)
-                    {
-                        F = (k - 1) * (F3 + F4);
-                        F3 = F4;
-                        F4 = F;
-                    }
+                    F = (k - 1) * (F2 + F3);
+                    F2 = F3;
+                    F3 = F;
                 }
             }
-            
+
             Console.WriteLine(F);
             Console.ReadLine();
         }
