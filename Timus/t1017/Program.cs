@@ -3,36 +3,34 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Numerics;
 
 namespace t1017
 {
     class Program
     {
-        static BigInteger Q = 0;
-
-        static void q(int h, int rest)
+        static int Lmax(int N)
         {
-            int l, r;
-
-            if (h >= rest) return;
-
-            l = h + 1;
-            r = rest - l;
-            while (l < r)
-            {
-                Q++;
-                q(l, r);
-                l += 1;
-                r -= 1;
-            }
+            return (int)((Math.Sqrt(8 * N + 1) - 1) / 2);
         }
         static void Main(string[] args)
         {
             int N = int.Parse(Console.ReadLine().Trim());
+            ulong[,] Q = new ulong[N + 1, Lmax(N) + 1];
+            ulong q = 0;
+            int i, j;
 
-            q(0, N);
-            Console.WriteLine(Q);
+            for (i = 1; i <= N; i++)
+            {
+                for (j = 1; j<= Lmax(N); j++)
+                {
+                    if (j == 1) Q[i, j] = 1;
+                    else if (j > Lmax(i)) Q[i, j] = 0;
+                    else Q[i, j] = Q[i - j, j] + Q[i - j, j - 1];
+                }
+            }
+
+            for (j = 2; j <= Lmax(N); j++) q += Q[N, j];
+            Console.WriteLine(q);
             Console.ReadLine();
         }
     }
