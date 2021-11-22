@@ -8,7 +8,7 @@ namespace t1022
 {
     class Program
     {
-        const int MAXN = 2;
+        const int MAXN = 100;
         static void Main(string[] args)
         {
             int N = int.Parse(Console.ReadLine().Trim());
@@ -19,7 +19,7 @@ namespace t1022
             int i, j;
 
             for (i = 1; i <= MAXN ; i++) {
-                parentsOf[i] = "";
+                parentsOf[i] = " ";
                 numOfParents[i] = 0;
             }
 
@@ -43,7 +43,7 @@ namespace t1022
                 numOfParents[i] = -1;
                 for (j = 1; j<= N; j++)
                 {
-                    if (parentsOf[j].IndexOf(i.ToString() + " ") >= 0) numOfParents[j]--;
+                    if (parentsOf[j].IndexOf(" " + i.ToString() + " ") >= 0) numOfParents[j]--;
                 }
                 t--;
             }
