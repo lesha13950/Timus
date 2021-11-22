@@ -14,22 +14,25 @@ namespace t1021
         {
             int N1, N2;
             int[] list1 = new int[MAXN], list2 = new int[MAXN];
-            int i, j;
+            int i;
             bool result = false;
 
             N1 = int.Parse(Console.ReadLine().Trim());
             for (i = 0; i < N1; i++) list1[i] = int.Parse(Console.ReadLine().Trim());
             N2 = int.Parse(Console.ReadLine().Trim());
-            for (i = 0; i < N2; i++) list2[i] = int.Parse(Console.ReadLine().Trim());
+            for (i = N2 - 1; i >= 0; i--) list2[i] = int.Parse(Console.ReadLine().Trim());
 
             i = 0;
             while (!result && i < N1)
             {
-                j = 0;
-                while (!result && j < N2)
+                int n = HolyNumber - list1[i];
+                int l = 0, r = N2 - 1;
+                while (!result && l <= r)
                 {
-                    if (list1[i] + list2[j] == HolyNumber) result = true;
-                    j++;
+                    int m = (l + r) / 2;
+                    if (list2[m] == n) result = true;
+                    else if (list2[m] > n) r = m - 1;
+                    else l = m + 1;
                 }
                 i++;
             }
