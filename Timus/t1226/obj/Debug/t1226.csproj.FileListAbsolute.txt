@@ -1,0 +1,6 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1226\bin\Debug\t1226.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1226\bin\Debug\t1226.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1226\bin\Debug\t1226.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1226\obj\Debug\t1226.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1226\obj\Debug\t1226.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1226\obj\Debug\t1226.pdb
