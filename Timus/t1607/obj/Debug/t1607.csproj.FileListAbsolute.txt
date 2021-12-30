@@ -1,0 +1,7 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1607\bin\Debug\t1607.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1607\bin\Debug\t1607.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1607\bin\Debug\t1607.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1607\obj\Debug\t1607.csproj.AssemblyReference.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1607\obj\Debug\t1607.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1607\obj\Debug\t1607.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1607\obj\Debug\t1607.pdb
