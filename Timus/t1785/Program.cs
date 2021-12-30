@@ -17,7 +17,7 @@ namespace t1785
             else if (n <= 49) Console.WriteLine("lots");
             else if (n <= 99) Console.WriteLine("horde");
             else if (n <= 249) Console.WriteLine("throng");
-            else if (n <= 499) Console.WriteLine("swarnm");
+            else if (n <= 499) Console.WriteLine("swarm");
             else if (n <= 999) Console.WriteLine("zounds");
             else Console.WriteLine("legion");
             Console.ReadLine();
