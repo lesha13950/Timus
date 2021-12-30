@@ -12,11 +12,13 @@ namespace t1510
         {
             int N = int.Parse(Console.ReadLine().Trim());
             int nominal = -1;
+            int cur;
             int c = 0;
 
             for (int i = 0; i < N; i++)
             {
-                int cur = int.Parse(Console.ReadLine().Trim());
+                if (i % 1000 == 0) GC.Collect();
+                cur = int.Parse(Console.ReadLine());
                 if (c == 0)
                 {
                     nominal = cur;

@@ -4,3 +4,4 @@ D:\Users\lesha\Documents\GitHub\Timus\Timus\t1510\bin\Debug\t1510.pdb
 D:\Users\lesha\Documents\GitHub\Timus\Timus\t1510\obj\Debug\t1510.csproj.CoreCompileInputs.cache
 D:\Users\lesha\Documents\GitHub\Timus\Timus\t1510\obj\Debug\t1510.exe
 D:\Users\lesha\Documents\GitHub\Timus\Timus\t1510\obj\Debug\t1510.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1510\obj\Debug\t1510.csproj.AssemblyReference.cache
