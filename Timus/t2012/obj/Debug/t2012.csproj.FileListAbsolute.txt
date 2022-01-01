@@ -1,0 +1,7 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t2012\bin\Debug\t2012.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t2012\bin\Debug\t2012.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t2012\bin\Debug\t2012.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t2012\obj\Debug\t2012.csproj.AssemblyReference.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t2012\obj\Debug\t2012.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t2012\obj\Debug\t2012.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t2012\obj\Debug\t2012.pdb
