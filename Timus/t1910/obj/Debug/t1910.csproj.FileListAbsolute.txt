@@ -1,0 +1,6 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1910\bin\Debug\t1910.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1910\bin\Debug\t1910.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1910\bin\Debug\t1910.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1910\obj\Debug\t1910.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1910\obj\Debug\t1910.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1910\obj\Debug\t1910.pdb
