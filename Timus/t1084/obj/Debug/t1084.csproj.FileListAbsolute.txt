@@ -1,0 +1,6 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1084\bin\Debug\t1084.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1084\bin\Debug\t1084.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1084\bin\Debug\t1084.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1084\obj\Debug\t1084.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1084\obj\Debug\t1084.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1084\obj\Debug\t1084.pdb
