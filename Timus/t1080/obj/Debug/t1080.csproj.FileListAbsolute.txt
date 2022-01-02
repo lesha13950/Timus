@@ -1,0 +1,7 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1080\bin\Debug\t1080.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1080\bin\Debug\t1080.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1080\bin\Debug\t1080.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1080\obj\Debug\t1080.csproj.AssemblyReference.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1080\obj\Debug\t1080.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1080\obj\Debug\t1080.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1080\obj\Debug\t1080.pdb
