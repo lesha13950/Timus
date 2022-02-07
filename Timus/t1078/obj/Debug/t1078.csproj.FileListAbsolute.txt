@@ -1,0 +1,7 @@
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1078\bin\Debug\t1078.exe.config
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1078\bin\Debug\t1078.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1078\bin\Debug\t1078.pdb
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1078\obj\Debug\t1078.csproj.AssemblyReference.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1078\obj\Debug\t1078.csproj.CoreCompileInputs.cache
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1078\obj\Debug\t1078.exe
+D:\Users\lesha\Documents\GitHub\Timus\Timus\t1078\obj\Debug\t1078.pdb
